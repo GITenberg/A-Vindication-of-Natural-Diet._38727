@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1529
     wikipedia: http://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38727#A-Vindication-of-Natural-Diet.
 gutenberg_issued: '2012-01-31'
 gutenberg_type: Text
 identifiers:
